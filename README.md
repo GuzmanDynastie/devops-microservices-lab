@@ -80,14 +80,17 @@ La arquitectura final sera una plataforma de copmercio electronico simplificada:
 
 ## Servicios
 
-```text Servicio			Tecnologia
----
-	API Gateway			Node.js / Express
-	User Service			Kotlin / Spring Boot
-	Order Service			Kotlin / Spring Boot
-	Payment Service			Node.js / Express
-	Inventory Service		Kotlin / Spring Boot
-	Notification Service		Node.js / Express
+```text 
+      | ---------------------------------------------------- |
+      |	Servicio		      |	Tecnologia           |
+      | ---------------------------------------------------- |
+      |	API Gateway		      	Node.js / Express    |
+      |	User Service			Kotlin / Spring Boot |
+      |	Order Service			Kotlin / Spring Boot |
+      |	Payment Service			Node.js / Express    |
+      |	Inventory Service		Kotlin / Spring Boot |
+      |	Notification Service		Node.js / Express    |
+      | ---------------------------------------------------- |
 ```
 
 
